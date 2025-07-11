@@ -26,4 +26,4 @@ This repository contains:
 
 ---
 
-Thanks for checking this out — feel free to explore, learn with me, or use this as inspiration for your own learning journey!
+Thanks for checking this out, hope you enjoy!
