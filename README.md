@@ -1,3 +1,29 @@
 # py.master-coursenotes
-Hey there, so: I got myself a pack of 4 courses, called Python Master, from PyCodeBR, which are: Logic Master, Django Master, IA Master and Integration Master. And here i'll show you my notes, projects and stuff i learned with it or related to it. Hope you enjoy! 
-WARNING: All of my notes are handwritten, the notes i've written related to the first course (Logic Master) are in portuguese, BUT, the other ones are in english.
+Hey there!  
+I got myself a pack of 4 courses called **Python Master**, from PyCodeBR.  
+The courses included are:
+
+1.  **Logic Master**
+2.  **Django Master**
+3.  **IA (Artificial Intelligence) Master**
+4.  **Integration Master**
+
+---
+
+## What You'll Find Here
+
+This repository contains:
+- My **handwritten notes**, digitalized using CamScanner
+- Some **projects and exercises** based on course content
+- Highlights of what I’ve learned and practiced
+
+---
+
+## Language Notes!!
+
+- Logic Master's (1st course) notes are in portuguese.
+- Django Master, IA Master and Integration Master notes are in english.
+
+---
+
+Thanks for checking this out — feel free to explore, learn with me, or use this as inspiration for your own learning journey!
